@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BBLMCommentLineDefault</key>
+    <string>#</string>
+<key>BBLMKeywordList</key>
+<array>
+        <string>:start run control:</string>
+        <string>:stop run control:</string>
+        <string>:start run mode:</string>
+        <string>:stop run mode:</string>
+        <string>:start geometry definition:</string>
+        <string>:stop geometry definition:</string>
+        <string>:start volume correction:</string>
+        <string>:stop volume correction:</string>
+        <string>:start scoring options:</string>
+        <string>:stop scoring options:</string>
+        <string>:start source definition:</string>
+        <string>:stop source definition:</string>
+        <string>:start MC transport parameters:</string>
+        <string>:stop MC transport parameters:</string>
+        <string>:start MC transport parameter:</string>
+        <string>:stop MC transport parameter:</string>
+        <string>:start variance reduction:</string>
+        <string>:stop variance reduction:</string>
+        <string>:start rng definition:</string>
+        <string>:stop rng definition:</string>
+        <string>:start ausgab object definition:</string>
+        <string>:stop ausgab object definition:</string>
+        <string>    :start ausgab object:</string>
+        <string>    :stop ausgab object:</string>
+
+        <string>:start input loop:</string>
+        <string>:stop input loop:</string>
+        <string>    :start input loop:</string>
+        <string>    :stop input loop:</string>
+        <string>        :start input loop:</string>
+        <string>        :stop input loop:</string>
+        <string>            :start input loop:</string>
+        <string>            :stop input loop:</string>
+   
+        <string>:start media input:</string>
+        <string>:stop media input:</string>
+        <string>    :start media input:</string>
+        <string>    :stop media input:</string>
+        <string>        :start media input:</string>
+        <string>        :stop media input:</string>
+
+
+        <string>:start geometry:</string>
+        <string>:stop geometry:</string>
+        <string>    :start geometry:</string>
+        <string>    :stop geometry:</string>
+
+        <string>:start shape:</string>
+        <string>:stop shape:</string>
+        <string>    :start shape:</string>
+        <string>    :stop shape:</string>
+        <string>        :start shape:</string>
+        <string>        :stop shape:</string>
+        <string>            :start shape:</string>
+        <string>            :stop shape:</string>
+        <string>                :start shape:</string>
+        <string>                :stop shape:</string>
+
+
+        <string>    :start inscribed geometries:</string>
+        <string>    :stop inscribed geometries:</string>
+        <string>    :start inscribed geometry:</string>
+        <string>    :stop inscribed geometry:</string>
+        <string>        :start inscribed geometries:</string>
+        <string>        :stop inscribed geometries:</string>
+        <string>        :start inscribed geometry:</string>
+        <string>        :stop inscribed geometry:</string>
+
+        <string>    :start volume correction:</string>
+        <string>    :stop volume correction:</string>
+        <string>        :start volume correction:</string>
+        <string>        :stop volume correction:</string>
+        <string>            :start volume correction:</string>
+        <string>            :stop volume correction:</string>
+
+        <string>    :start region discovery:</string>
+        <string>    :stop region discovery:</string>
+        <string>        :start region discovery:</string>
+        <string>        :stop region discovery:</string>
+        <string>            :start region discovery:</string>
+        <string>            :stop region discovery:</string>
+
+        <string>    :start spectrum scoring:</string>
+        <string>    :stop spectrum scoring:</string>
+
+        <string>    :start spectrum:</string>
+        <string>    :stop spectrum:</string>
+        <string>        :start spectrum:</string>
+        <string>        :stop spectrum:</string>
+
+        <string>    :start phsp scoring:</string>
+        <string>    :stop phsp scoring:</string>
+
+        <string>:start source:</string>
+        <string>:stop source:</string>
+        <string>    :start source:</string>
+        <string>    :stop source:</string>
+        <string>    :start source shape:</string>
+        <string>    :stop source shape:</string>
+        <string>    :start target shape:</string>
+        <string>    :stop target shape:</string>
+
+
+        <string>:start transformation:</string>
+        <string>:stop transformation:</string>
+        <string>    :start transformations:</string>
+        <string>    :stop transformations:</string>
+        <string>    :start transformation:</string>
+        <string>    :stop transformation:</string>
+        <string>        :start transformations:</string>
+        <string>        :stop transformations:</string>
+        <string>        :start transformation:</string>
+        <string>        :stop transformation:</string>
+        <string>            :start transformations:</string>
+        <string>            :stop transformations:</string>
+        <string>            :start transformation:</string>
+        <string>            :stop transformation:</string>
+
+
+        <string>    :start particle recycling:</string>
+        <string>    :stop particle recycling:</string>
+
+        <string>    :start rng definition:</string>
+        <string>    :stop rng definition:</string>
+        <string>        :start rng definition:</string>
+        <string>        :stop rng definition:</string>
+        <string>            :start rng definition:</string>
+        <string>            :stop rng definition:</string>
+        <string>                :start rng definition:</string>
+        <string>                :stop rng definition:</string>
+
+
+        <string>    :start extra volume correction:</string>
+        <string>    :stop extra volume correction:</string>
+        <string>    :start source volume correction:</string>
+        <string>    :stop source volume correction:</string>
+        <string>    :start volume correction from file:</string>
+        <string>    :stop volume correction from file:</string>
+
+        <string>    :start layer:</string>
+        <string>    :stop layer:</string>
+        <string>        :start layer:</string>
+        <string>        :stop layer:</string>
+
+        <string>    :start muen for medium:</string>
+        <string>    :stop muen for medium:</string>
+        
+        <string>:start media definition:</string>
+        <string>:stop media definition:</string>
+        
+        <string>    :start WATER_0.998:</string>
+        <string>    :stop WATER_0.998:</string>
+        <string>    :start AIR_TG43:</string>
+        <string>    :stop AIR_TG43:</string>
+        <string>    :start Ti:</string>
+        <string>    :stop Ti:</string>
+        <string>    :start Ag:</string>
+        <string>    :stop Ag:</string>
+        <string>    :start AgHalide:</string>
+        <string>    :stop AgHalide:</string>
+
+        <string>:start view control:</string>
+        <string>:stop view control:</string>
+
+        <string>:start geometry tester:</string>
+        <string>:stop geometry tester:</string>
+        <string>    :start inside test:</string>
+        <string>    :stop inside test:</string>
+        <string>    :start hownear test:</string>
+        <string>    :stop hownear test:</string>
+        <string>    :start howfar test:</string>
+        <string>    :stop howfar test:</string>
+        <string>        :start bounding shape:</string>
+        <string>        :stop bounding shape:</string>
+
+        <string>:Start EGS-mg Geometry:</string>
+        <string>:Stop EGS-mg Geometry:</string>
+        <string>:Start Primitive0001:</string>
+        <string>:Stop Primitive0001:</string>
+        <string>:Start MC TRANSPORT PARAMETER:</string>
+        <string>:Stop MC TRANSPORT PARAMETER:</string>
+        <string>:start source inputs:</string>
+        <string>:stop source inputs:</string>
+        <string>:start I/O CONTROL:</string>
+        <string>:stop I/O CONTROL:</string>
+        <string>:start MONTE CARLO INPUTS:</string>
+        <string>:stop MONTE CARLO INPUTS:</string>
+        <string>:start RUN MODE INPUTS:</string>
+        <string>:stop RUN MODE INPUTS:</string>
+        <string>:start MUEN DATA INPUTS:</string>
+        <string>:stop MUEN DATA INPUTS:</string>
+        <string>:start RECYCLING INPUTS:</string>
+        <string>:stop RECYCLING INPUTS:</string>
+        <string>:start VOLUME CORRECTION INPUTS:</string>
+        <string>:stop VOLUME CORRECTION INPUTS:</string>
+        <string>:start CT DATA INPUTS:</string>
+        <string>:stop CT DATA INPUTS:</string>
+        <string>:start SPECTRUM SCORING OPTIONS:</string>
+        <string>:stop SPECTRUM SCORING OPTIONS:</string>
+        <string>:start PHOTON CROSS SECTION INPUTS:</string>
+        <string>:stop PHOTON CROSS SECTION INPUTS:</string>
+        </array>
+    <key>BBEditDocumentType</key>
+    <string>CodelessLanguageModule</string>
+    <key>BBLMColorsSyntax</key>
+    <true/>
+    <key>BBLMIsCaseSensitive</key>
+    <true/>
+    <key>BBLMLanguageCode</key>
+    <string>EGS</string>
+    <key>BBLMLanguageDisplayName</key>
+    <string>EGS Input</string>
+    <key>BBLMScansFunctions</key>
+    <true/>
+    <key>BBLMSuffixMap</key>
+    <array>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string>.egsinp</string>
+        </dict>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string>.geom</string>
+        </dict>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string>.shape</string>
+        </dict>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string>.source</string>
+        </dict>
+
+    </array>
+    <key>Language Features</key>
+    <dict>
+        <key>Identifier and Keyword Characters</key>
+        <string>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ  :-//0123456789</string>
+        <key>Open Line Comments</key>
+        <string>#</string>
+        <key>String Pattern</key>
+        <string><![CDATA[
+        (?x:
+    (\b[\w[:blank:]]+\([^)]+\)+\s=)|(\b[\.\-\w[:blank:]]+=)
+    )]]></string>
+        <key>Comment Pattern</key>
+        <string><![CDATA[
+    (?x:
+    (\#.*)
+    )]]></string>
+        <key>Skip Pattern</key>
+        <string><![CDATA[
+    (?x:
+        (?P>comment) |
+        (?P>string)
+    )]]></string>
+    </dict>
+</dict>
+</plist>
